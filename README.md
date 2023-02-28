@@ -1,1 +1,1 @@
-# 191317_Yati
+minimun_support = 0.6
